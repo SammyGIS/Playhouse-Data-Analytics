@@ -1,18 +1,18 @@
 ## Project Scope: Unleashing Insights from LinkedIn and Twitter Engagement Data
 
 ### Project Overview
-Within the confines of this project, we are presented with a compelling challenge — two distinct datasets chronicling engagement on two prominent social media platforms, LinkedIn and Twitter. Our overarching objective is to not merely analyze this data but to extract profound insights that pave the way for strategic recommendations, propelling our digital presence to new heights.
+In this project, two separate datasets was provided, each capturing online social media engagement details of the organiation Posting on both LinkedIn and Twitter. The primary objective is to thoroughly clean, integrate, and explore this data to derive actionable insights. These insights will then inform strategic recommendations to enhance our organization's social media digital marketing efforts on both Twitter and LinkedIn platforms. 📊🚀
 
 ### Data Sources:
+* LinkedIn Engagement Data
+* Twitter Engagement Data
 
-LinkedIn Engagement Data
-Twitter Engagement Data
-Project Goal:
-The fundamental goal is to navigate these datasets, deciphering the nuances of user engagement on LinkedIn and Twitter. By employing advanced analytics and leveraging creative methodologies, we aim to distill actionable insights that transcend conventional approaches. This project isn't confined to statistical analysis; it's a holistic exploration into the dynamics of digital engagement.
+### Project Goal:
+The main goal is to go through the data from LinkedIn and Twitter, figuring out the details of how people engage, derive insight from this and uses this insights to make recommedations.
 
 ### Key Components:
 
-* Data Cleaning: Rigorous preprocessing to ensure the datasets are okay, removing outliers, handling missing values, and normalizing variables. 
+* Data Cleaning: Rigorous preprocessing to ensure the datasets are okay, removing outliers, handling missing values,assigned the right data types, and normalizing variables. 
 
 * Data Exploration: Delving into the intricacies of LinkedIn and Twitter engagement datasets to identify patterns, trends, and anomalies.
 
@@ -20,5 +20,7 @@ The fundamental goal is to navigate these datasets, deciphering the nuances of u
 
 * Recommendation Formulation: Crafting strategic recommendations grounded in the insights derived from the data. These recommendations are not mere suggestions but actionable strategies to enhance our presence on these platforms.
 
+### Results
+https://lookerstudio.google.com/embed/reporting/7e15c243-e086-4c0d-a56b-a471add9ad33/page/5BceD
 
-REsults
+
