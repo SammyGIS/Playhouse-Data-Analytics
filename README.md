@@ -1,4 +1,4 @@
-## Project: Unleashing Insights from LinkedIn and Twitter Engagement Data
+## Project: Deriving insights and making marketing recommedations from LinkedIn and Twitter Engagement Data
 
 ###  Overview
 This project focuses on extracting valuable insights from two distinct datasets, each capturing the online social media engagement details of our organization on LinkedIn and Twitter. The ultimate aim is to clean, integrate, and explore this data to derive actionable insights that will guide strategic recommendations for optimizing our organization's social media digital marketing efforts on both Twitter and LinkedIn platforms.
